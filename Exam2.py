@@ -1,6 +1,5 @@
 #Yanira Manzano
 #4/13/2020
-#Exam2
 
 import random
 from Search_Methods import bubble_sort
